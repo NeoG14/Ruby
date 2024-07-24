@@ -22,7 +22,7 @@ class MegaAnfition
             puts "Hola #{@nombres}"
         end
     end
-
+    #ssda
     #decirle adios a todos
     def decir_adios
         if @nombres.nil?
