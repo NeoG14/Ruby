@@ -7,7 +7,7 @@ class MegaAnfition
     def initialize(nombres = "Mundo")
         @nombres = nombres
     end
-
+    #cambios
     # Decirle hola a todos
     def decir_hola
         if @nombres.nil?
